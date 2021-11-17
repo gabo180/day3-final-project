@@ -46,6 +46,6 @@ if choice == "left":
   else:
     print("""You have to type either \"swim\" or \"wait\", any other word doesn't work!""")
 elif choice == "right":
-  print("""You just fall into a Hole. GAME OVER!!!""")
+  print("""You just fell into a Hole. GAME OVER!!!""")
 else:
   print("""You have to type either \"left\" or \"right\", any other word doesn't work!""")
